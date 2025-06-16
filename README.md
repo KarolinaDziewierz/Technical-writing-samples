@@ -1,2 +1,2 @@
-# Eleks
+# NiX
 Writing samples for NiX.
