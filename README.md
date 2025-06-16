@@ -1,2 +1,2 @@
 # Eleks
-Writing samples for Eleks.
+Writing samples for NiX.
