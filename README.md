@@ -1,2 +1,2 @@
-# NiX
-Writing samples for NiX.
+# Technical writing samples
+Writing samples for recruitment purposes.
