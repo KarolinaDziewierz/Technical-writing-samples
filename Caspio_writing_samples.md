@@ -1,11 +1,23 @@
-Below are the links to my articles written for Caspio. They are available at the publicly available [HowTo page](https://howto.caspio.com/):
+# Knowledge Base References
 
-- All articles under **[Triggered actions](https://howto.caspio.com/triggered-actions/triggered-actions-2/)** section 
+## Equativ
+- [Equativ Maestro Help](https://help.equativ.com/maestro)
 
-- **[FAQ](https://howto.caspio.com/frequently-asked-questions-faq-2/)** 
+---
 
-- All articles under **[Idendity providers](https://howto.caspio.com/directories/identity-providers/identity-providers/)** section 
+## Caspio 
 
-- All articles under **[App connections](https://howto.caspio.com/directories/app-connections/app-connections/)** section 
+### Triggered Actions
+- [All articles in Triggered Actions](https://howto.caspio.com/triggered-actions/triggered-actions-2/)
 
-- **[Release notes 41.0](https://howto.caspio.com/release-notes/caspio-41-0/)**
+### FAQ
+- [Frequently Asked Questions](https://howto.caspio.com/frequently-asked-questions-faq-2/)
+
+### Identity Providers
+- [All articles in Identity Providers](https://howto.caspio.com/directories/identity-providers/identity-providers/)
+
+### App Connections
+- [All articles in App Connections](https://howto.caspio.com/directories/app-connections/app-connections/)
+
+### Release Notes
+- [Caspio 41.0 Release Notes](https://howto.caspio.com/release-notes/caspio-41-0/)
