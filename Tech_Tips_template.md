@@ -1,3 +1,6 @@
+> **Note for Recruiter:**  
+> I created the following structure as a base template for writing **Tech Tips in Caspio**.
+
 <h1>Structure for Tech Tips</h1>
 
 
