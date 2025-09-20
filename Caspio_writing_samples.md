@@ -1,4 +1,7 @@
-# Knowledge Base References
+> **Note for Recruiter:**  
+> The following knowledge base articles and help center resources are part of my work: I **currently manage** the Equativ content and **previously managed** the Caspio content.
+
+<h1></h1> Knowledge Base References</h1>
 
 ## Equativ
 - [Equativ Maestro Help](https://help.equativ.com/maestro)
