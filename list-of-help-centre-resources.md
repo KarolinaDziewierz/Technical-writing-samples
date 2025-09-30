@@ -1,5 +1,5 @@
 > **Note for Recruiter:**  
-> The following knowledge base articles and help center resources are part of my work: I **currently manage** the Equativ content and **previously managed** the Caspio content.
+> I own the end-to-end process of creating and managing the Equativ knowledge base and help center. Below are selected articles and resources from my work. At present, I manage the Equativ content, and in the past, I managed the Caspio content.
 
 <h1>Knowledge Base References</h1>
 
