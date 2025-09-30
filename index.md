@@ -1,12 +1,14 @@
-# Karolina Dziewierz – Portfolio
-
-## Writing Samples
-
-### 1. AI Implementation in Enterprises
-[Preview / Download PDF](pdf/The_complexities_of_AI_implementation_in_large_enterprises.pdf)
-
-### 2. How to Choose the Right AI
-[Preview / Download PDF](pdf/Long-form_blog_post_How_to_choose_the_right_AI.pdf)
-
-### 3. Help Centre Resources
-[Preview Markdown](md/List_of_help_centre_resources.md)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Karolina Dziewierz Portfolio</title>
+</head>
+<body>
+<h1>Portfolio</h1>
+<ul>
+  <li><a href="pdf/Long-form-blog-post-How-to-choose-the-right-AI.pdf">Long-form Blog Post</a></li>
+  <li><a href="list-of-help-centre-resources.md">Help Centre Resources</a></li>
+</ul>
+</body>
+</html>
