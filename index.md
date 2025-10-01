@@ -1,33 +1,3 @@
-<title>Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      max-width: 800px;
-      margin: 40px auto;
-      line-height: 1.6;
-      color: #333;
-    }
-    h1, h2, h3, h4 {
-      margin-top: 1.2em;
-      color: #2c3e50;
-    }
-    ul {
-      margin: 0.5em 0 1.5em 1.5em;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    hr {
-      margin: 2em 0;
-      border: none;
-      border-top: 1px solid #ddd;
-    }
-  </style>
-</head>
 <body>
   <h1>Portfolio</h1>
 
@@ -38,8 +8,6 @@
   <ul>
     <li><a href="https://help.equativ.com/maestro">Equativ Maestro Help</a></li>
   </ul>
-
-  <hr>
 
   <h3>Caspio</h3>
   <p>Below are selected articles and resources from the Caspio knowledge base that I used to create and manage.</p>
