@@ -28,6 +28,9 @@
     <li><a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf" target="_blank">
   Long-form Blog Post
 </a></li>
+    <iframe src="pdf/Long-form-blog-post.pdf" width="100%" height="600px"></iframe>
+    <a href="pdf/Long-form-blog-post.pdf" target="_blank">Long-form Blog Post</a>
+
   </ul>
 </body>
 </html>
