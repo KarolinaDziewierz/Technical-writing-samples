@@ -70,4 +70,15 @@
 
   <h4>Release Notes</h4>
   <ul>
-    <li><a href="https://howto.casp
+    <li><a href="https://howto.caspio.com/release-notes/caspio-41-0/">Caspio 41.0 Release Notes</a></li>
+  </ul>
+
+  <hr>
+
+  <h2>Other Writing Samples</h2>
+  <ul>
+    <li><a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf">Long-form Blog Post: How to Choose the Right AI</a></li>
+    <li><a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf">LinkedIn Post: The Complexities of AI Implementation</a></li>
+  </ul>
+</body>
+</html>
