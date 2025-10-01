@@ -31,9 +31,5 @@
       LinkedIn Post: 
       <a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf" target="_blank">The Complexities of AI Implementation</a>
     </li>
-    <li>
-      Help Centre Resources (MD file): 
-      <a href="list-of-help-centre-resources.md" target="_blank">List of Help Centre Resources</a>
-    </li>
   </ul>
 </body>
