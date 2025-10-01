@@ -24,6 +24,8 @@
   <ul>
     <li>Long-form Blog Post: <a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf">How to Choose the Right AI</a></li>
     <li>LinkedIn Post: <a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf">The Complexities of AI Implementation</a></li>
+        <li>Long-form Blog Post: <a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf" target="_blank">How to Choose the Right AI</a></li>
+    <li>LinkedIn Post: <a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf" target="_blank">The Complexities of AI Implementation</a></li>
   </ul>
 </body>
 </html>
