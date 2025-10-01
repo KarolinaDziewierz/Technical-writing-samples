@@ -24,12 +24,8 @@
   <ul>
     <li>Long-form Blog Post: <a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf">How to Choose the Right AI</a></li>
     <li>LinkedIn Post: <a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf">The Complexities of AI Implementation</a></li>
-        <li>Long-form Blog Post: <a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf" target="_blank">How to Choose the Right AI</a></li>
-    <li>LinkedIn Post: <a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf" target="_blank">The Complexities of AI Implementation</a></li>
-    <li><a href="Long-form blog post - How to choose the right AI: A detailed comparison of GPT-4o, Claude 3, and Llama 4.pdf">Long Form Blog Post</a></li>
-<li><a href="LinkedIn post - The complexities of AI implementation in large enterprises.pdf">LinkedIn Post</a></li>
-    <li><a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf
-"> 
+        <li>Long-form Blog Post: <a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf" target="_blank">How to Choose the Right AI</a></li></li>
+    <li><a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf" target="_blank">
   Long-form Blog Post
 </a></li>
   </ul>
