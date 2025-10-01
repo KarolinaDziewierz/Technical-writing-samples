@@ -6,8 +6,7 @@
 <h1>Portfolio</h1>
 <p>I own the end-to-end process of creating and managing the Equativ help center.</p>
 <ul>
-    <li><a href="list-of-help-centre-resources.md">Help Centre Resources</a></li>
-     <h1>Knowledge Base References</h1>
+     <h2>Knowledge Base References</h2>
 
   <h2>Equativ</h2>
   <ul>
