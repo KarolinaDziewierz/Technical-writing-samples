@@ -1,49 +1,56 @@
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
+  <meta charset="UTF-8">
+  <title>Portfolio</title>
 </head>
 <body>
-<h1>Portfolio</h1>
-<p>I own the end-to-end process of creating and managing the Equativ help center.</p>
-<ul>
-     <h2>Knowledge Base References</h2>
+  <h1>Portfolio</h1>
+  <p>I own the end-to-end process of creating and managing the Equativ help center.</p>
 
-  <h2>Equativ</h2>
+  <h2>Knowledge Base References</h2>
+
+  <h3>Equativ</h3>
   <ul>
     <li><a href="https://help.equativ.com/maestro">Equativ Maestro Help</a></li>
   </ul>
 
-  <hr />
+  <hr>
 
-  <h2>Caspio</h2>
+  <h3>Caspio</h3>
   <p>Below are selected articles and resources from the Caspio knowledge base that I used to create and manage.</p>
 
-  <h3>Triggered Actions</h3>
+  <h4>Triggered Actions</h4>
   <ul>
     <li><a href="https://howto.caspio.com/triggered-actions/triggered-actions-2/">All articles in Triggered Actions</a></li>
   </ul>
 
-  <h3>FAQ</h3>
+  <h4>FAQ</h4>
   <ul>
     <li><a href="https://howto.caspio.com/frequently-asked-questions-faq-2/">Frequently Asked Questions</a></li>
   </ul>
 
-  <h3>Identity Providers</h3>
+  <h4>Identity Providers</h4>
   <ul>
     <li><a href="https://howto.caspio.com/directories/identity-providers/identity-providers/">All articles in Identity Providers</a></li>
   </ul>
 
-  <h3>App Connections</h3>
+  <h4>App Connections</h4>
   <ul>
     <li><a href="https://howto.caspio.com/directories/app-connections/app-connections/">All articles in App Connections</a></li>
   </ul>
 
-  <h3>Release Notes</h3>
+  <h4>Release Notes</h4>
   <ul>
     <li><a href="https://howto.caspio.com/release-notes/caspio-41-0/">Caspio 41.0 Release Notes</a></li>
   </ul>
-  <li><a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf">Long-form Blog Post</a></li>
-  <li><a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf">LinkedIn post: The complexities of AI implementation</a></li>
-</ul>
+
+  <hr>
+
+  <h2>Other Writing Samples</h2>
+  <ul>
+    <li><a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf">Long-form Blog Post: How to Choose the Right AI</a></li>
+    <li><a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf">LinkedIn Post: The Complexities of AI Implementation</a></li>
+  </ul>
 </body>
 </html>
