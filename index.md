@@ -2,9 +2,8 @@
   <h1>Portfolio</h1>
 
   <h2>Knowledge Base References</h2>
-  <p>I own the end-to-end process of creating and managing the Equativ help center.</p>
-
   <h3>Equativ</h3>
+    <p>I own the end-to-end process of creating and managing the Equativ help center.</p>
   <ul>
     <li><a href="https://help.equativ.com/maestro">Equativ Maestro Help</a></li>
   </ul>
