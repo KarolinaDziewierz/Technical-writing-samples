@@ -24,8 +24,6 @@
   <ul>
     <li>Long-form Blog Post: <a href="Long-form-blog-post-How-to-choose-the-right-AI.pdf">How to Choose the Right AI</a></li>
     <li>LinkedIn Post: <a href="LinkedIn-post-The-complexities-of-AI-implementation.pdf">The Complexities of AI Implementation</a></li>
-    <li>Knowledge Base Resources: <a href="List-of-help-centre-resources.md">Help Centre Resources</a></li>
-    <li>Technical Documentation: <a href="Technical-Writer-sample.pdf">Sample Documentation</a></li>
   </ul>
 </body>
 </html>
