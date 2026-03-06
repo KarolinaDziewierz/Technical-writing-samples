@@ -7,7 +7,16 @@
 - [Equativ Maestro Help](https://help.equativ.com/maestro)
 
 ---
-
+## Superside
+- [Onboarding process](https://help.superside.com/en/articles/13686092-your-onboarding-process)
+- [Approve your project assets](https://help.superside.com/en/articles/13686148-approve-your-project-assets)
+- [Share project assets](https://help.superside.com/en/articles/13608902-share-project-assets)
+- [Manage payment details](https://help.superside.com/en/articles/13714542-manage-payment-details)
+- [Video project workflow](https://help.superside.com/en/articles/13843140-video-project-workflow)
+- [Add comments to video assets](https://help.superside.com/en/articles/13833577-add-comments-to-video-assets)
+- [Access your project overview](https://help.superside.com/en/articles/13701163-access-your-project-overview)
+- [Organize projects with collections](https://help.superside.com/en/articles/13686293-organize-projects-with-collections)
+---
 ## Caspio 
 
 ### Triggered Actions
