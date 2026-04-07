@@ -7,7 +7,7 @@
 - [Equativ Maestro Help](https://help.equativ.com/maestro)
 
 ---
-## Superside
+## Superside (2-month contract)
 - [Onboarding process](https://help.superside.com/en/articles/13686092-your-onboarding-process)
 - [Approve your project assets](https://help.superside.com/en/articles/13686148-approve-your-project-assets)
 - [Share project assets](https://help.superside.com/en/articles/13608902-share-project-assets)
