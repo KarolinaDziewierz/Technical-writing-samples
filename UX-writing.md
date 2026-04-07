@@ -1,6 +1,6 @@
-# UX Writing Portfolio - Fictional Examples (Google style)
+# UX Writing Portfolio: Fictional examples (Google style)
 
-This is a **fictional UX Writing showcase**, designed according to **Google UX Writing style guidelines**.  
+This is a **fictional UX writing showcase**, designed according to **Google UX writing style guidelines**.  
 
 ---
 
